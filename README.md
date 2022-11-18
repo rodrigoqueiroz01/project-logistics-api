@@ -2,8 +2,6 @@
 
 ## ⚡ Technologies
 
----
-
 ### • Java 19
 ### • Spring Boot
 ### • MySQL
