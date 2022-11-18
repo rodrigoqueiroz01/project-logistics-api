@@ -1,0 +1,7 @@
+CREATE TABLE client (
+   id BIGINT AUTO_INCREMENT NOT NULL,
+   name VARCHAR(60) NULL,
+   email VARCHAR(255) NULL,
+   telephone VARCHAR(20) NULL,
+   CONSTRAINT pk_client PRIMARY KEY (id)
+);
